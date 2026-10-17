@@ -16,7 +16,7 @@
 ## 👋 ¡Hola! Soy Daniel
 
 🎓 Terminé el ciclo de **ASIR** con una media de **8.00** y un proyecto final valorado con un **10.00**.
-🛡️ Completé **bootcamps de Red Team y Blue Team** y me certifiqué en **Cisco CCST Cybersecurity** (+900/1000 puntos).
+🛡️ Completé **bootcamps de Red Team y Blue Team** y me certifiqué en **Cisco CCST Cybersecurity** (+900/1000 puntos) y **Cisco CCST Networking** (+900/1000 puntos).
 💼 Ahora mismo trabajo como **Formador de Ciberseguridad en Eurofirms Foundation**.
 📚 Estoy cursando una **Especialización en Ciberseguridad** y preparándome para la certificación **CCNA**.
 🔍 Me mueve la seguridad **ofensiva y defensiva**, la administración de sistemas y automatizar todo lo que se pueda.
