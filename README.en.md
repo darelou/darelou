@@ -16,9 +16,13 @@
 ## 👋 Hi! I'm Daniel
 
 🎓 I finished the **ASIR** program (Systems Administration) with an **8.00 GPA** and a final project graded **10.00**.
-🛡️ I completed **Red Team and Blue Team bootcamps** and earned the **Cisco CCST Cybersecurity** certification (+900/1000 points) and **Cisco CCST Networking** (+900/1000 puntos).
+
+🛡️ I completed **Red Team and Blue Team bootcamps** and earned the **Cisco CCST Cybersecurity** (+900/1000 points) and **Cisco CCST Networking** (+900/1000 points) certifications.
+
 💼 I currently work as a **Cybersecurity Trainer at Eurofirms Foundation**.
+
 📚 I'm taking a **Cybersecurity Specialization** and preparing for the **CCNA** certification.
+
 🔍 I'm driven by **offensive and defensive** security, systems administration and automating everything I can.
 
 ---
@@ -77,6 +81,7 @@
 | Certification | Issuer |
 |---|---|
 | 🏅 **CCST Cybersecurity** | Cisco |
+| 🌐 **CCST Networking** | Cisco |
 | 🔵 **Blue Team** | Eurofirms |
 | 🔴 **Red Team** | The Bridge |
 | 🛡️ **CPPS** | Hack & Fix |
